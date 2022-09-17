@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/701eec50-4b87-4dc0-9d00-b0f54025dc36/028e62d2-2a59-4fc3-adaa-a0756a0512b9/IN-en-20220905-popsignuptwoweeks-perspective_alpha_website_medium.jpg " );
+;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.netflix-h1{
+    margin: -3px 94px;
+    padding: 10px 7px;
+    color: #F40E1E;
+}
+.nav-btn{
+    display: flex;
+    margin: 20px 45px;
+}
+.select-btn #language{
+    margin: 0px 20px;
+    font-weight: 600;
+    padding: 8px 11px;
+}
+.signin-btn button{
+    margin: 0px 50px;
+    font-weight: 600;
+    padding: 8px 18px;
+    background-color: #F40E1E;
+    border-radius: 5px;
+}
+.content{
+    color: white;
+    margin: 120px 120px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.content .h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+.content .h2{
+    font-size: x-large;
+    padding: 20px 20px;
+}
+.content .p{
+    padding: 6px 20px;
+    font: icon;
+}
+.submit button{
+    /* width: 200px; */
+    padding: 19px 50px;
+    background-color: #F40E1E;
+    font: message-box;
+    font-weight: bold;
+    color: white;
+}
+.content-btn input{
+    /* width: 200px; */
+/* padding: 17px 10px; */
+padding: 18px 106px;
+/* margin: 12px  20px; */
+font: message-box;
+}
